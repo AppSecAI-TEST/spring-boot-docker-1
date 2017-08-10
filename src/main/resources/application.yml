@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: docker-demo
+  jackson:
+    date-format: "yyyy-MM-dd'T'HH:mm:ss"
+
+server:
+  port: 9001
